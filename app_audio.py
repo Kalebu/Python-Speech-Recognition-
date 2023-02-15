@@ -18,4 +18,4 @@ try:
     print("Decoded Text : {}".format(text))
 
 except Exception as ex:
-    print(ex)
+    print(f"Sorry the following error occured :{ex}")
